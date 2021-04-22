@@ -6,3 +6,25 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.idea/libraries/*
+.idea/compiler.xml
+.idea/distribution.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/*
+**/*.iml
+**.iml
+!/trade/trade-client/src/main/java/com/bopu/trade/client/domain/response/SelfTakingContactRespDTO.java
+**/target/**
+**/.gradle/**
